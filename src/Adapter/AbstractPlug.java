@@ -1,6 +1,6 @@
 package Adapter;
 
-// Abstract Target
+// Abstract Target, changing for conflict on server
 interface AbstractPlug {
     void roundPin();
     void pinCount();
